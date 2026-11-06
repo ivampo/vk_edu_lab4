@@ -1,0 +1,18 @@
+$ python3 zookeeper.py status
+ZooKeeper 1: status
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk1/zoo.cfg
+Client port found: 2181. Client address: 127.0.0.1. Client SSL: false.
+Mode: follower
+ZooKeeper 2: status
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk2/zoo.cfg
+Client port found: 2182. Client address: 127.0.0.1. Client SSL: false.
+Mode: follower
+ZooKeeper 3: status
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk3/zoo.cfg
+Client port found: 2183. Client address: 127.0.0.1. Client SSL: false.
+Mode: leader
+
+exit_code=0

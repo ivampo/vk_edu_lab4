@@ -1,0 +1,24 @@
+{"event": "started", "monotonic": 135749.710606541, "name": "B", "negotiated_timeout_ms": 10000, "pid": 13873, "requested_timeout": 10, "session_id": "0x2000815d2250003", "time": "2026-11-06T15:19:16.217+03:00"}
+{"epoch": 2, "event": "leader", "monotonic": 135764.091062833, "name": "B", "time": "2026-11-06T15:19:30.598+03:00"}
+{"cursor": 50000, "event": "restore", "monotonic": 135764.100886833, "pairs": 5022, "selected": 735, "time": "2026-11-06T15:19:30.607+03:00"}
+{"cursor": 60000, "epoch": 2, "event": "checkpoint", "monotonic": 135765.963853875, "selected": 885, "time": "2026-11-06T15:19:32.470+03:00"}
+{"cursor": 70000, "epoch": 2, "event": "checkpoint", "monotonic": 135766.759054375, "selected": 1031, "time": "2026-11-06T15:19:33.266+03:00"}
+{"cursor": 80000, "epoch": 2, "event": "checkpoint", "monotonic": 135767.538111625, "selected": 1172, "time": "2026-11-06T15:19:34.045+03:00"}
+{"cursor": 90000, "epoch": 2, "event": "checkpoint", "monotonic": 135768.391483083, "selected": 1315, "time": "2026-11-06T15:19:34.898+03:00"}
+{"cursor": 100000, "epoch": 2, "event": "checkpoint", "monotonic": 135769.167618708, "selected": 1494, "time": "2026-11-06T15:19:35.674+03:00"}
+{"cursor": 110000, "epoch": 2, "event": "checkpoint", "monotonic": 135769.966064166, "selected": 1700, "time": "2026-11-06T15:19:36.473+03:00"}
+{"cursor": 120000, "epoch": 2, "event": "checkpoint", "monotonic": 135770.749132666, "selected": 1920, "time": "2026-11-06T15:19:37.256+03:00"}
+{"cursor": 130000, "epoch": 2, "event": "checkpoint", "monotonic": 135771.545490041, "selected": 2167, "time": "2026-11-06T15:19:38.052+03:00"}
+{"cursor": 140000, "epoch": 2, "event": "checkpoint", "monotonic": 135772.340407666, "selected": 2363, "time": "2026-11-06T15:19:38.847+03:00"}
+{"cursor": 150000, "epoch": 2, "event": "checkpoint", "monotonic": 135773.118903666, "selected": 2554, "time": "2026-11-06T15:19:39.625+03:00"}
+{"cursor": 160000, "epoch": 2, "event": "checkpoint", "monotonic": 135773.913328333, "selected": 2727, "time": "2026-11-06T15:19:40.420+03:00"}
+{"cursor": 170000, "epoch": 2, "event": "checkpoint", "monotonic": 135774.719677958, "selected": 2916, "time": "2026-11-06T15:19:41.226+03:00"}
+{"cursor": 180000, "epoch": 2, "event": "checkpoint", "monotonic": 135775.512672208, "selected": 3032, "time": "2026-11-06T15:19:42.019+03:00"}
+{"cursor": 190000, "epoch": 2, "event": "checkpoint", "monotonic": 135776.422286916, "selected": 3176, "time": "2026-11-06T15:19:42.929+03:00"}
+{"cursor": 200000, "epoch": 2, "event": "checkpoint", "monotonic": 135777.217314416, "selected": 3331, "time": "2026-11-06T15:19:43.724+03:00"}
+{"cursor": 210000, "epoch": 2, "event": "checkpoint", "monotonic": 135778.017922666, "selected": 3505, "time": "2026-11-06T15:19:44.525+03:00"}
+{"cursor": 220000, "epoch": 2, "event": "checkpoint", "monotonic": 135779.035199875, "selected": 3691, "time": "2026-11-06T15:19:45.542+03:00"}
+{"cursor": 229388, "epoch": 2, "event": "checkpoint", "monotonic": 135779.8146535, "selected": 3894, "time": "2026-11-06T15:19:46.321+03:00"}
+{"epoch": 2, "event": "computed", "matches_hw3": true, "monotonic": 135779.850351916, "occurrences": 81344, "selected": 3894, "sha256": "f81acce1a87988f6cac84887e50b04cd27316edfefb158e155407f62b71a4956", "source_rows": 229388, "time": "2026-11-06T15:19:46.357+03:00", "unique_pairs": 17801, "without_skills": 908}
+{"accepted": true, "coordinator": "B", "epoch": 2, "event": "записал результат", "file": "results/fencing/B-pairs.csv", "monotonic": 135779.8768435, "pointer_version": 1, "sha256": "f81acce1a87988f6cac84887e50b04cd27316edfefb158e155407f62b71a4956", "time": "2026-11-06T15:19:46.383+03:00"}
+{"event": "session", "monotonic": 135779.877184625, "state": "LOST", "time": "2026-11-06T15:19:46.384+03:00"}

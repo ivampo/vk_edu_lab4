@@ -1,0 +1,1 @@
+{"initial": {"1": "follower", "2": "follower", "3": "leader"}, "one": {"1": "no quorum", "2": "stopped", "3": "stopped"}, "passed": true, "restored": {"1": "follower", "2": "leader", "3": "follower"}, "two": {"1": "follower", "2": "leader", "3": "stopped"}}

@@ -1,0 +1,9 @@
+{"event": "three-nodes", "monotonic": 135630.9508555, "roles": {"1": "follower", "2": "follower", "3": "leader"}, "time": "2026-11-06T15:17:17.457+03:00"}
+{"event": "three-client", "hosts": "127.0.0.1:2181", "monotonic": 135631.015131291, "time": "2026-11-06T15:17:17.521+03:00", "write_read": "PASS"}
+{"event": "two-nodes", "monotonic": 135635.228889375, "roles": {"1": "follower", "2": "leader", "3": "stopped"}, "time": "2026-11-06T15:17:21.735+03:00"}
+{"event": "two-client", "hosts": "127.0.0.1:2181,127.0.0.1:2182", "monotonic": 135635.259934583, "time": "2026-11-06T15:17:21.766+03:00", "write_read": "PASS"}
+{"event": "one-node", "monotonic": 135642.462988125, "roles": {"1": "no quorum", "2": "stopped", "3": "stopped"}, "time": "2026-11-06T15:17:28.969+03:00"}
+{"error": "KazooTimeoutError", "event": "one-client", "hosts": "127.0.0.1:2181", "monotonic": 135646.545670916, "time": "2026-11-06T15:17:33.052+03:00", "write_read": "UNAVAILABLE"}
+{"event": "restored", "monotonic": 135653.285909625, "roles": {"1": "follower", "2": "leader", "3": "follower"}, "time": "2026-11-06T15:17:39.792+03:00"}
+{"event": "restored-client", "hosts": "127.0.0.1:2181", "monotonic": 135653.313415833, "time": "2026-11-06T15:17:39.819+03:00", "write_read": "PASS"}
+{"event": "PASS", "monotonic": 135653.315278875, "time": "2026-11-06T15:17:39.821+03:00"}

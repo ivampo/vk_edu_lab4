@@ -1,0 +1,11 @@
+$ python3 zookeeper.py start 2 3
+ZooKeeper 2: start
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk2/zoo.cfg
+Starting zookeeper ... STARTED
+ZooKeeper 3: start
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk3/zoo.cfg
+Starting zookeeper ... STARTED
+
+exit_code=0

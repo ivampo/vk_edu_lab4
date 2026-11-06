@@ -1,0 +1,9 @@
+srvr -> 127.0.0.1:2181
+This ZooKeeper instance is not currently serving requests
+
+
+srvr -> 127.0.0.1:2182
+ConnectionRefusedError: [Errno 61] Connection refused
+
+srvr -> 127.0.0.1:2183
+ConnectionRefusedError: [Errno 61] Connection refused

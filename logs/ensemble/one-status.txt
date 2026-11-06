@@ -1,0 +1,8 @@
+$ python3 zookeeper.py status 1
+ZooKeeper 1: status
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk1/zoo.cfg
+Client port found: 2181. Client address: 127.0.0.1. Client SSL: false.
+Error contacting service. It is probably not running.
+
+exit_code=1

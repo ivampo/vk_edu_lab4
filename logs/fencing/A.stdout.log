@@ -1,0 +1,32 @@
+{"event": "started", "monotonic": 135749.571271208, "name": "A", "negotiated_timeout_ms": 10000, "pid": 13870, "requested_timeout": 10, "session_id": "0x2000815d2250002", "time": "2026-11-06T15:19:16.078+03:00"}
+{"epoch": 1, "event": "leader", "monotonic": 135749.5842145, "name": "A", "time": "2026-11-06T15:19:16.091+03:00"}
+{"cursor": 0, "event": "restore", "monotonic": 135749.584896916, "pairs": 0, "selected": 0, "time": "2026-11-06T15:19:16.091+03:00"}
+{"cursor": 10000, "epoch": 1, "event": "checkpoint", "monotonic": 135750.351699125, "selected": 146, "time": "2026-11-06T15:19:16.858+03:00"}
+{"cursor": 20000, "epoch": 1, "event": "checkpoint", "monotonic": 135751.139073916, "selected": 272, "time": "2026-11-06T15:19:17.646+03:00"}
+{"cursor": 30000, "epoch": 1, "event": "checkpoint", "monotonic": 135751.908424916, "selected": 413, "time": "2026-11-06T15:19:18.415+03:00"}
+{"cursor": 40000, "epoch": 1, "event": "checkpoint", "monotonic": 135752.707752458, "selected": 564, "time": "2026-11-06T15:19:19.214+03:00"}
+{"cursor": 50000, "epoch": 1, "event": "checkpoint", "monotonic": 135753.486966958, "selected": 735, "time": "2026-11-06T15:19:19.993+03:00"}
+{"event": "session", "monotonic": 135793.516661208, "state": "SUSPENDED", "time": "2026-11-06T15:20:00.023+03:00"}
+{"event": "session", "monotonic": 135793.542370208, "state": "LOST", "time": "2026-11-06T15:20:00.049+03:00"}
+{"event": "session", "monotonic": 135793.5903605, "state": "CONNECTED", "time": "2026-11-06T15:20:00.097+03:00"}
+{"cursor": 60000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135794.331711041, "time": "2026-11-06T15:20:00.838+03:00"}
+{"cursor": 70000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135795.127590458, "time": "2026-11-06T15:20:01.634+03:00"}
+{"cursor": 80000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135795.899175041, "time": "2026-11-06T15:20:02.406+03:00"}
+{"cursor": 90000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135796.687386875, "time": "2026-11-06T15:20:03.194+03:00"}
+{"cursor": 100000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135797.495249833, "time": "2026-11-06T15:20:04.002+03:00"}
+{"cursor": 110000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135798.330937291, "time": "2026-11-06T15:20:04.838+03:00"}
+{"cursor": 120000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135799.109130916, "time": "2026-11-06T15:20:05.616+03:00"}
+{"cursor": 130000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135799.89381525, "time": "2026-11-06T15:20:06.401+03:00"}
+{"cursor": 140000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135800.682207916, "time": "2026-11-06T15:20:07.189+03:00"}
+{"cursor": 150000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135801.464769208, "time": "2026-11-06T15:20:07.972+03:00"}
+{"cursor": 160000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135802.2362955, "time": "2026-11-06T15:20:08.743+03:00"}
+{"cursor": 170000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135803.093831416, "time": "2026-11-06T15:20:09.601+03:00"}
+{"cursor": 180000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135803.88964425, "time": "2026-11-06T15:20:10.396+03:00"}
+{"cursor": 190000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135804.680496583, "time": "2026-11-06T15:20:11.187+03:00"}
+{"cursor": 200000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135805.488758833, "time": "2026-11-06T15:20:11.996+03:00"}
+{"cursor": 210000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135806.303008333, "time": "2026-11-06T15:20:12.810+03:00"}
+{"cursor": 220000, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135807.103855375, "time": "2026-11-06T15:20:13.611+03:00"}
+{"cursor": 229388, "epoch": 1, "event": "stale_checkpoint", "monotonic": 135807.894213625, "time": "2026-11-06T15:20:14.401+03:00"}
+{"epoch": 1, "event": "computed", "matches_hw3": true, "monotonic": 135807.929550833, "occurrences": 81344, "selected": 3894, "sha256": "f81acce1a87988f6cac84887e50b04cd27316edfefb158e155407f62b71a4956", "source_rows": 229388, "time": "2026-11-06T15:20:14.436+03:00", "unique_pairs": 17801, "without_skills": 908}
+{"accepted": false, "coordinator": "A", "epoch": 1, "error": "BadVersionError", "event": "BadVersionError", "file": "results/fencing/A-pairs.csv", "monotonic": 135807.956343125, "sha256": "f81acce1a87988f6cac84887e50b04cd27316edfefb158e155407f62b71a4956", "time": "2026-11-06T15:20:14.463+03:00"}
+{"event": "session", "monotonic": 135807.956713083, "state": "LOST", "time": "2026-11-06T15:20:14.464+03:00"}

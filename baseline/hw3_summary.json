@@ -1,0 +1,17 @@
+{
+  "chunks": 230,
+  "occurrences": [
+    19741,
+    81344,
+    291524
+  ],
+  "retries": 0,
+  "source_rows": 229388,
+  "unique": [
+    1269,
+    17801,
+    115118
+  ],
+  "vacancies": 3894,
+  "without_skills": 908
+}

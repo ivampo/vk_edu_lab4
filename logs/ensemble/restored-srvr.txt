@@ -1,0 +1,36 @@
+srvr -> 127.0.0.1:2181
+Zookeeper version: 3.9.6-a355171b081b5b60749db8f19cca1528b0df936f, built on 2026-09-03 19:29 UTC
+Latency min/avg/max: 0/0.0/0
+Received: 1
+Sent: 0
+Connections: 1
+Outstanding: 0
+Zxid: 0x200000003
+Mode: follower
+Node count: 8
+
+
+srvr -> 127.0.0.1:2182
+Zookeeper version: 3.9.6-a355171b081b5b60749db8f19cca1528b0df936f, built on 2026-09-03 19:29 UTC
+Latency min/avg/max: 0/0.0/0
+Received: 1
+Sent: 0
+Connections: 1
+Outstanding: 0
+Zxid: 0x300000000
+Mode: leader
+Node count: 8
+Proposal sizes last/min/max: -1/-1/-1
+
+
+srvr -> 127.0.0.1:2183
+Zookeeper version: 3.9.6-a355171b081b5b60749db8f19cca1528b0df936f, built on 2026-09-03 19:29 UTC
+Latency min/avg/max: 0/0.0/0
+Received: 1
+Sent: 0
+Connections: 1
+Outstanding: 0
+Zxid: 0x200000003
+Mode: follower
+Node count: 8
+

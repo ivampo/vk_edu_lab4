@@ -1,0 +1,7 @@
+$ python3 zookeeper.py stop 3
+ZooKeeper 3: stop
+ZooKeeper JMX enabled by default
+Using config: /Users/user/Downloads/vk_edu_lab4/conf/zk3/zoo.cfg
+Stopping zookeeper ... STOPPED
+
+exit_code=0

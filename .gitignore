@@ -1,0 +1,9 @@
+.venv/
+.runtime/
+downloads/
+tmp/
+__pycache__/
+.DS_Store
+*.pid
+.playwright-mcp/
+.idea/
